@@ -73,6 +73,12 @@ See also [https://github.com/pasindud/awesome-loopback](https://github.com/pasin
       </td>
     </tr>
     <tr>
+      <td><a href="http://neo4j.com/" class="external-link" rel="nofollow">Neo4j</a></td>
+      <td><a href="https://www.npmjs.com/package/loopback-connector-neo4j-graph" class="external-link" rel="nofollow">loopback-connector-neo4j-graph</a></td>
+      <td>
+      </td>
+    </tr>
+    <tr>
       <td><a href="http://ravendb.net/" class="external-link" rel="nofollow">RavenDB</a></td>
       <td><a href="https://www.npmjs.org/package/loopback-connector-ravendb" class="external-link" rel="nofollow">loopback-connector-ravendb</a></td>
       <td>&nbsp;</td>
